@@ -26,3 +26,5 @@ So I designed that theme for my Minecrafter friends.
 
 Download From
 Cdn Discord; https://cdn.discordapp.com/attachments/1155019296557240331/1199789273856086178/minecraft.css?ex=65c3d1d5&is=65b15cd5&hm=ff2655a30620ec9b8e356dfbb71a078dfc3b77f905d80cf7064674742ad7e9ba&
+![image](https://github.com/Sempiller/BetterDiscordProjects/assets/110603660/400360d3-5b59-4d4b-8136-4bc7bac60f71)
+
